@@ -2,40 +2,9 @@
 <main>
     <h1>Catergorie</h1>
     <div class="container">
-        <div class="item1">
-            <ul>
-                <li>Landen</li>
-                <li>Hoofstadden</li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
-            
-            <button>Landen</button>
-        </div> 
-
-        <div class="item2"> 
-            <ul>
-                <li>Pokemon</li>
-                <li>Soorten</li>
-                <li>Namen</li>
-                <li>Evoluties</li>
-            </ul>
-        <button>Pokemon</button>
-    </div> 
-
-        <div class="item3"> 
-            <ul>
-                <li>Random onderwerp </li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
-            <button>Geschiedenis</button>
-        </div> 
-        <div class="item4"> </div>
-    </div>
+     <!-- foreach loop komen uit database button click haal id uit 
+    id uit halen  doorgestuurd naar quizpagia uit quizpagina komt daaruit fetch id 
+for loop data quz vragen  -->
 </main>
 
 <?php include './include/footer.php' ?>
